@@ -1,0 +1,36 @@
+let myResume = {
+    "basics": {
+        "name": "DHINAKARAN",
+        "email": "dhinadk28@gmail.com ",
+        "phone": 6369145102,
+        "degree": "BCA",
+        "location": {
+            "address": "1/218,BTR Nagar,Zuzuvadi,Hosur",
+            "postalCode": 635126,
+            "city": "Hosur",
+            "state": "Tamilnadu",
+            "country": "India"
+        },
+
+
+
+    },
+    "education": [{
+        "institution": "Sri Ramakrishna Mission Vidyalaya College Of Arts and Science",
+        "department": "Computer Applications",
+        "studyType": "fulltime",
+        "batch start year": 2020,
+        "batch end year": 2023,
+
+    }],
+    "skills": [{
+        "name": "python,javascript",
+        "level": "beginer",
+
+    }],
+    "languages": [{
+        "language": "Tamil,Enlish",
+    }],
+
+}
+console.log(myResume);
